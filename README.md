@@ -1,5 +1,6 @@
 # KryPtoN Music Bot
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/09b0c6f9559d4f06b9754c7304874154)](https://app.codacy.com/gh/qwederpulz/KryPtoN-Music-Bot?utm_source=github.com&utm_medium=referral&utm_content=qwederpulz/KryPtoN-Music-Bot&utm_campaign=Badge_Grade)
 [![Actions Badge](https://img.shields.io/github/workflow/status/Kry9toN/KryPtoN-Music-Bot/PyCheck/master?label=Build&style=flat-square&logo=github-actions&logoColor=white&color=98CE00)](https://github.com/Kry9toN/KryPtoN-Music-Bot/actions)
 [![Codacy Badge](https://img.shields.io/codacy/grade/ad9a6f35e0d94bbeb6abe4cd8afa279c?style=flat-square&logo=codacy&color=17BEBB)](https://www.codacy.com/gh/Kry9toN/KryPtoN-Music-Bot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kry9toN/KryPtoN-Music-Bot&amp;utm_campaign=Badge_Grade)
 
